@@ -12,3 +12,12 @@ print("The square of x is " + str(y))
 
 def double(x):
     return x * 2
+
+def add(x):
+    pass
+
+def divide(x, y):
+    pass
+
+def subtract(x, y):
+    pass
