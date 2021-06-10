@@ -20,7 +20,7 @@ def divide(x, y):
     return x/y
 
 def subtract(x, y):
-    return x - y
+    return abs(x - y)
 
 def add1(x):
     return x + 1
