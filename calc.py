@@ -27,3 +27,6 @@ def subtract1(x):
 
 def add1(x):
     return x + 1
+
+def square(x):
+    return x ** 2
