@@ -21,3 +21,6 @@ def divide(x, y):
 
 def subtract(x, y):
     pass
+
+def add1(x):
+    return x + 1
