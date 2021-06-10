@@ -22,5 +22,8 @@ def divide(x, y):
 def subtract(x, y):
     return abs(x - y)
 
+def subtract5(x):
+    return x - 5
+
 def add1(x):
     return x + 1
